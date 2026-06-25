@@ -17,7 +17,7 @@ The Cosori Pro III is widely considered the best air fryer overall — intuitive
 **Price:** $99.99 - $129.99
 **Amazon Rating:** 4.8/5 (40,000+ reviews)
 
-[Check Price on Amazon](https://amazon.com/cosori-pro-III-air-fryer?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/s?k=cosori+pro+III+air+fryer&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. Ninja Air Fryer Max XL
 
@@ -28,7 +28,7 @@ The Ninja Air Fryer Max XL is the best-selling air fryer on Amazon for good reas
 **Price:** $89.99 - $119.99
 **Amazon Rating:** 4.8/5 (60,000+ reviews)
 
-[Shop on Amazon](https://amazon.com/ninja-air-fryer-max-xl?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=ninja+air+fryer+max+xl&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. Instant Vortex Plus 6-in-1
 
@@ -39,7 +39,7 @@ The Instant Vortex Plus combines air frying with rotisserie for versatile cookin
 **Price:** $79.99 - $99.99
 **Amazon Rating:** 4.7/5
 
-[Check Price](https://amazon.com/instant-vortex-plus-air-fryer?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=instant+vortex+plus+air+fryer&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. Philips Premium Airfryer XXL
 
@@ -50,7 +50,7 @@ Philips invented air frying technology, and their XXL model is the premium choic
 **Price:** $249.99 - $299.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://amazon.com/philips-premium-airfryer-xxl?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=philips+premium+airfryer+xxl&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. Gourmia 6-Quart Digital Air Fryer
 
@@ -61,7 +61,7 @@ The Gourmia offers exceptional value with its large capacity and features at a b
 **Price:** $49.99 - $59.99
 **Amazon Rating:** 4.7/5 (30,000+ reviews)
 
-[Check Price](https://amazon.com/gourmia-6-quart-air-fryer?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=gourmia+6+quart+air+fryer&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. Breville Smart Oven Air Fryer Pro
 
@@ -72,7 +72,7 @@ The Breville is an air fryer + convection oven combo that can do it all.
 **Price:** $329.99 - $379.99
 **Amazon Rating:** 4.7/5
 
-[Shop Now](https://amazon.com/breville-smart-oven-air-fryer-pro?tag=alfyliaozr20-20)
+[Shop Now](https://www.amazon.com/s?k=breville+smart+oven+air+fryer+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 7. Chefman 6.3-Quart Digital Air Fryer
 
@@ -83,7 +83,7 @@ Chefman offers the largest capacity in its price range with easy-to-use presets.
 **Price:** $54.99 - $69.99
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://amazon.com/chefman-6-3-quart-air-fryer?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=chefman+6+3+quart+air+fryer&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 8. Cuisinart TOB-260N1 Chef's Convection Toaster Oven
 
@@ -94,7 +94,7 @@ The Cuisinart combines air frying with a full-featured convection toaster oven.
 **Price:** $199.95 - $249.95
 **Amazon Rating:** 4.5/5
 
-[Check Price](https://amazon.com/cuisinart-tob-260n1?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=cuisinart+tob+260n1&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## Air Fryer Buying Guide
 

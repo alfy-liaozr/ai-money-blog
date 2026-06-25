@@ -16,7 +16,7 @@ The latest AirPods Pro features improved ANC, better sound quality, and the new 
 **Price:** $249.00
 **Amazon Rating:** 4.8/5 (20,000+ reviews)
 
-[Check Price on Amazon](https://amazon.com/airpods-pro-3rd-gen?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/s?k=airpods+pro+3rd+gen&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. Sony WF-1000XM5
 
@@ -26,7 +26,7 @@ Sony's flagship earbuds offer industry-leading noise cancellation and exceptiona
 **Price:** $228.00 - $279.99
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://amazon.com/sony-wf-1000xm5?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=sony+wf+1000xm5&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. Bose QuietComfort Ultra Earbuds
 
@@ -36,7 +36,7 @@ Bose's most advanced earbuds feature CustomTune technology that personalizes sou
 **Price:** $299.00
 **Amazon Rating:** 4.7/5
 
-[Get It on Amazon](https://amazon.com/bose-qc-ultra-earbuds?tag=alfyliaozr20-20)
+[Get It on Amazon](https://www.amazon.com/s?k=bose+qc+ultra+earbuds&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. Jabra Elite 10
 
@@ -46,7 +46,7 @@ With excellent call quality and Dolby head tracking, the Elite 10 is perfect for
 **Price:** $199.99
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://amazon.com/jabra-elite-10?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=jabra+elite+10&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. Samsung Galaxy Buds 3 Pro
 
@@ -56,7 +56,7 @@ Optimized for Samsung devices, these buds offer seamless integration and excelle
 **Price:** $199.99
 **Amazon Rating:** 4.7/5
 
-[Order on Amazon](https://amazon.com/samsung-galaxy-buds-3-pro?tag=alfyliaozr20-20)
+[Order on Amazon](https://www.amazon.com/s?k=samsung+galaxy+buds+3+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. Anker Soundcore Liberty 4 NC
 
@@ -66,7 +66,7 @@ Amazing value for money, these budget-friendly earbuds offer 50dB ANC and 10-hou
 **Price:** $99.99
 **Amazon Rating:** 4.6/5
 
-[Check Price on Amazon](https://amazon.com/anker-liberty-4-nc?tag=alfyliaozr20-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=anker+liberty+4+nc&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 7. Google Pixel Buds Pro 2
 
@@ -76,7 +76,7 @@ Deep integration with Google services and excellent real-time translation featur
 **Price:** $199.99
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://amazon.com/google-pixel-buds-pro-2?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=google+pixel+buds+pro+2&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 8. Beats Studio Buds +
 
@@ -86,7 +86,7 @@ Great sound quality with seamless Apple and Android compatibility, plus excellen
 **Price:** $169.95
 **Amazon Rating:** 4.6/5
 
-[Get It on Amazon](https://amazon.com/beats-studio-buds-plus?tag=alfyliaozr20-20)
+[Get It on Amazon](https://www.amazon.com/s?k=beats+studio+buds+plus&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ---
 

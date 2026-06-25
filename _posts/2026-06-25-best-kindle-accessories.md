@@ -17,7 +17,7 @@ The official Amazon cover is the best protection for your Kindle with auto wake/
 **Price:** $34.99 - $44.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://amazon.com/amazon-kindle-fabric-cover?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Buy on Amazon](https://www.amazon.com/s?k=amazon+kindle+fabric+cover&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. Moko Slim Case Cover
 
@@ -28,7 +28,7 @@ Moko's slim case offers great protection at a fraction of the official price.
 **Price:** $12.99 - $15.99
 **Amazon Rating:** 4.6/5 (30,000+ reviews)
 
-[Check Price](https://amazon.com/moko-slim-kindle-case?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=moko+slim+kindle+case&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. Syncwire MFi Certified USB-C Cable
 
@@ -39,7 +39,7 @@ Fast-charge your Kindle with a high-quality, durable cable that won't fray.
 **Price:** $11.99
 **Amazon Rating:** 4.8/5
 
-[Shop on Amazon](https://amazon.com/syncwire-usb-c-cable-kindle?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=syncwire+usb+c+cable+kindle&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. PopSockets PopGrip for Kindle
 
@@ -50,7 +50,7 @@ A PopSocket makes holding your Kindle one-handed much more comfortable during lo
 **Price:** $9.99 - $12.99
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://amazon.com/popsocket-popgrip-kindle?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=popsocket+popgrip+kindle&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. MoKo Reading Pillow
 
@@ -61,7 +61,7 @@ The MoKo reading pillow lets you read hands-free in bed or on the couch with a b
 **Price:** $23.99 - $29.99
 **Amazon Rating:** 4.5/5
 
-[Check Price](https://amazon.com/moko-reading-pillow?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=moko+reading+pillow&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. Amazon Kindle Wireless Charging Dock
 
@@ -72,7 +72,7 @@ Charge your Kindle simply by placing it on the dock — no cables needed.
 **Price:** $34.99 - $39.99
 **Amazon Rating:** 4.4/5
 
-[Shop Now](https://amazon.com/kindle-wireless-charging-dock?tag=alfyliaozr20-20)
+[Shop Now](https://www.amazon.com/s?k=kindle+wireless+charging+dock&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## Bonus: Must-Read Kindle Add-Ons
 

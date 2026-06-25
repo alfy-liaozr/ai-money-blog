@@ -17,7 +17,7 @@ This semi-automatic machine grinds, doses, and tamps for you - perfect for aspir
 **Price:** $699.00 - $749.00
 **Amazon Rating:** 4.8/5
 
-[Check Price on Amazon](https://amazon.com/breville-barista-express-impress?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/s?k=breville+barista+express+impress&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. Technivorm Moccamaster KBT
 
@@ -28,7 +28,7 @@ The gold standard of drip coffee makers, handmade in the Netherlands with a 5-ye
 **Price:** $329.00 - $369.00
 **Amazon Rating:** 4.8/5
 
-[Shop on Amazon](https://amazon.com/technivorm-moccamaster-kbt?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=technivorm+moccamaster+kbt&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. Nespresso Vertuo Plus
 
@@ -39,7 +39,7 @@ Convenience meets quality with Nespresso's centrifusion technology.
 **Price:** $199.99 - $249.99
 **Amazon Rating:** 4.7/5
 
-[Get It on Amazon](https://amazon.com/nespresso-vertuo-plus?tag=alfyliaozr20-20)
+[Get It on Amazon](https://www.amazon.com/s?k=nespresso+vertuo+plus&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. OXO Brew 8-Cup Coffee Maker
 
@@ -50,7 +50,7 @@ Excellent budget-friendly option that doesn't compromise on taste.
 **Price:** $129.99 - $159.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://amazon.com/oxo-brew-8-cup?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=oxo+brew+8+cup&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. Breville Precision Brewer Thermal
 
@@ -61,7 +61,7 @@ The most customizable drip coffee maker with 6 brewing modes.
 **Price:** $299.95 - $329.95
 **Amazon Rating:** 4.7/5
 
-[Order on Amazon](https://amazon.com/breville-precision-brew?tag=alfyliaozr20-20)
+[Order on Amazon](https://www.amazon.com/s?k=breville+precision+brew&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. Keurig K-Elite
 
@@ -72,7 +72,7 @@ The most popular single-serve coffee maker with strong brew and iced settings.
 **Price:** $149.99 - $179.99
 **Amazon Rating:** 4.6/5
 
-[Check Price on Amazon](https://amazon.com/keurig-k-elite?tag=alfyliaozr20-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=keurig+k+elite&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 7. AeroPress Go
 
@@ -83,7 +83,7 @@ Portable, durable, and makes amazing coffee anywhere.
 **Price:** $39.95 - $49.95
 **Amazon Rating:** 4.8/5
 
-[Shop on Amazon](https://amazon.com/aeropress-go?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=aeropress+go&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 8. Chemex Classic (8-Cup)
 
@@ -94,7 +94,7 @@ The most elegant pour-over coffee maker, featured in museums worldwide.
 **Price:** $49.95 - $79.95
 **Amazon Rating:** 4.8/5
 
-[Get It on Amazon](https://amazon.com/chemex-classic-8-cup?tag=alfyliaozr20-20)
+[Get It on Amazon](https://www.amazon.com/s?k=chemex+classic+8+cup&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 9. Ninja Hot and Cold Brewed System
 
@@ -105,7 +105,7 @@ Versatile system that makes hot coffee, cold brew, and tea.
 **Price:** $179.99 - $199.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://amazon.com/ninja-hot-cold-brewed?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=ninja+hot+cold+brewed&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ---
 

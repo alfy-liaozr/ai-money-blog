@@ -17,7 +17,7 @@ The GoPro Hero13 Black is the most versatile action camera ever, with interchang
 **Price:** $399.99 - $449.99
 **Amazon Rating:** 4.8/5
 
-[Check Price on Amazon](https://amazon.com/gopro-hero13-black?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/s?k=gopro+hero13+black&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. DJI Osmo Action 5 Pro
 
@@ -28,7 +28,7 @@ DJI's latest action cam challenges GoPro with dual screens, better low-light per
 **Price:** $349.00 - $399.00
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://amazon.com/dji-osmo-action-5-pro?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=dji+osmo+action+5+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. Insta360 X4
 
@@ -39,7 +39,7 @@ The Insta360 X4 captures 360-degree video, letting you choose the angle after fi
 **Price:** $499.99 - $549.99
 **Amazon Rating:** 4.7/5
 
-[Check Price](https://amazon.com/insta360-x4?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=insta360+x4&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. GoPro Hero13 Black Mini
 
@@ -50,7 +50,7 @@ The Hero13 Mini is GoPro's smallest camera — just the essentials in a rugged c
 **Price:** $299.99 - $349.99
 **Amazon Rating:** 4.5/5
 
-[Buy on Amazon](https://amazon.com/gopro-hero13-black-mini?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=gopro+hero13+black+mini&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. DJI Osmo Action 3
 
@@ -61,7 +61,7 @@ The DJI Action 3 is the best value action camera with rock-solid stabilization a
 **Price:** $229.00 - $279.00
 **Amazon Rating:** 4.6/5
 
-[Check Price](https://amazon.com/dji-osmo-action-3?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=dji+osmo+action+3&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. AKASO Brave 7 LE
 
@@ -72,7 +72,7 @@ The AKASO Brave 7 offers remarkable value with dual screens and 4K video at unde
 **Price:** $119.99 - $139.99
 **Amazon Rating:** 4.4/5
 
-[Shop Now](https://amazon.com/akaso-brave-7-le?tag=alfyliaozr20-20)
+[Shop Now](https://www.amazon.com/s?k=akaso+brave+7+le&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 7. Insta360 GO 3S
 
@@ -83,7 +83,7 @@ The Insta360 GO 3S is tiny enough to wear anywhere — magnetically attach it to
 **Price:** $319.99 - $369.99
 **Amazon Rating:** 4.4/5
 
-[Buy on Amazon](https://amazon.com/insta360-go-3s?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=insta360+go+3s&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## Must-Have Action Camera Accessories
 

@@ -17,7 +17,7 @@ The Sonos Move 2 is the ultimate hybrid home/portable speaker with true multi-ro
 **Price:** $449.00
 **Amazon Rating:** 4.7/5
 
-[Check Price on Amazon](https://amazon.com/sonos-move-2?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/s?k=sonos+move+2&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. JBL Charge 5
 
@@ -28,7 +28,7 @@ The JBL Charge 5 is the best all-around portable speaker with excellent bass and
 **Price:** $149.95 - $179.95
 **Amazon Rating:** 4.8/5 (50,000+ reviews)
 
-[Shop on Amazon](https://amazon.com/jbl-charge-5?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=jbl+charge+5&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. Marshall Emberton III
 
@@ -39,7 +39,7 @@ The Emberton III delivers that classic Marshall rock aesthetic with modern porta
 **Price:** $149.99 - $169.99
 **Amazon Rating:** 4.7/5
 
-[Check Price](https://amazon.com/marshall-emberton-III?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=marshall+emberton+III&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. Ultimate Ears BOOM 4
 
@@ -50,7 +50,7 @@ The UE BOOM 4 is built for adventure with incredible 360-degree sound and rugged
 **Price:** $129.99 - $149.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://amazon.com/ultimate-ears-boom-4?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=ultimate+ears+boom+4&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. Anker Soundcore Motion 300
 
@@ -61,7 +61,7 @@ Anker's Soundcore Motion 300 delivers incredible value with premium features at 
 **Price:** $59.99
 **Amazon Rating:** 4.6/5 (20,000+ reviews)
 
-[Check Price](https://amazon.com/anker-soundcore-motion-300?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=anker+soundcore+motion+300&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. Bose SoundLink Max
 
@@ -72,7 +72,7 @@ Bose's largest portable speaker brings room-filling sound in a grab-and-go desig
 **Price:** $399.00
 **Amazon Rating:** 4.7/5
 
-[Shop Now](https://amazon.com/bose-soundlink-max?tag=alfyliaozr20-20)
+[Shop Now](https://www.amazon.com/s?k=bose+soundlink+max&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 7. Tribit StormBox Micro 2
 
@@ -83,7 +83,7 @@ The most portable speaker on our list — small enough to fit in your palm but s
 **Price:** $39.99 - $49.99
 **Amazon Rating:** 4.5/5
 
-[Buy on Amazon](https://amazon.com/tribit-stormbox-micro-2?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=tribit+stormbox+micro+2&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## Buying Guide
 

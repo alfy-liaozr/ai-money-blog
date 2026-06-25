@@ -17,7 +17,7 @@ The Arctis Nova Pro is the ultimate gaming headset with premium audio, comfort, 
 **Price:** $349.99 - $379.99
 **Amazon Rating:** 4.7/5
 
-[Check Price on Amazon](https://amazon.com/steelseries-arctis-nova-pro?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/s?k=steelseries+arctis+nova+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. Sony InZone H9
 
@@ -28,7 +28,7 @@ The InZone H9 brings Sony's audio expertise to gaming with incredible noise canc
 **Price:** $278.00 - $299.99
 **Amazon Rating:** 4.6/5
 
-[Shop on Amazon](https://amazon.com/sony-inzone-h9?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=sony+inzone+h9&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. HyperX Cloud Alpha Wireless
 
@@ -39,7 +39,7 @@ The HyperX Cloud Alpha Wireless delivers an incredible 300-hour battery life —
 **Price:** $179.99 - $199.99
 **Amazon Rating:** 4.8/5
 
-[Check Price](https://amazon.com/hyperx-cloud-alpha-wireless?tag=alfyliaozr20-20)
+[Check Price](https://www.amazon.com/s?k=hyperx+cloud+alpha+wireless&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. Logitech G Pro X Wireless
 
@@ -50,7 +50,7 @@ The Logitech G Pro X Wireless is the choice of esports professionals worldwide.
 **Price:** $179.99 - $229.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://amazon.com/logitech-g-pro-x-wireless?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=logitech+g+pro+x+wireless&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. Razer BlackShark V2 Pro
 
@@ -61,7 +61,7 @@ The Razer BlackShark V2 Pro combines tournament-level audio with all-day comfort
 **Price:** $169.99 - $199.99
 **Amazon Rating:** 4.7/5
 
-[Shop Now](https://amazon.com/razer-blackshark-v2-pro?tag=alfyliaozr20-20)
+[Shop Now](https://www.amazon.com/s?k=razer+blackshark+v2+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. Astro A10 (Gen 2)
 
@@ -72,7 +72,7 @@ The Astro A10 is the best budget gaming headset with surprisingly good audio qua
 **Price:** $39.99 - $49.99
 **Amazon Rating:** 4.5/5
 
-[Buy on Amazon](https://amazon.com/astro-a10-gen-2?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=astro+a10+gen+2&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## Quick Comparison
 

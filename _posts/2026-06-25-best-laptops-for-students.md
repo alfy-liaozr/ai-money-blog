@@ -17,7 +17,7 @@ Apple's latest MacBook Air with the M4 chip is perfect for students who need al-
 **Price:** $999.00 - $1,199.00
 **Amazon Rating:** 4.8/5
 
-[Check Price on Amazon](https://amazon.com/macbook-air-m4?tag=alfyliaozr20-20) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/s?k=macbook+air+m4&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
 
 ## 2. Dell XPS 13 (2026)
 
@@ -28,7 +28,7 @@ The Dell XPS 13 remains the best Windows ultrabook with near-borderless Infinity
 **Price:** $899.00 - $1,299.00
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://amazon.com/dell-xps-13-2026?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=dell+xps+13+2026&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 3. Lenovo ThinkPad E14 Gen 5
 
@@ -39,7 +39,7 @@ The ThinkPad E14 offers legendary keyboard quality and durability at a student-f
 **Price:** $649.00 - $899.00
 **Amazon Rating:** 4.7/5
 
-[Get It on Amazon](https://amazon.com/lenovo-thinkpad-e14?tag=alfyliaozr20-20)
+[Get It on Amazon](https://www.amazon.com/s?k=lenovo+thinkpad+e14&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 4. HP Pavilion Plus 14
 
@@ -50,7 +50,7 @@ Amazing value for money with a stunning OLED display and solid performance.
 **Price:** $699.00 - $949.00
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://amazon.com/hp-pavilion-plus-14?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=hp+pavilion+plus+14&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 5. ASUS ZenBook 14 OLED
 
@@ -61,7 +61,7 @@ Premium features at a mid-range price with a gorgeous OLED display.
 **Price:** $799.00 - $1,099.00
 **Amazon Rating:** 4.7/5
 
-[Order on Amazon](https://amazon.com/asus-zenbook-14-oled?tag=alfyliaozr20-20)
+[Order on Amazon](https://www.amazon.com/s?k=asus+zenbook+14+oled&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 6. Acer Swift 3 (2026)
 
@@ -72,7 +72,7 @@ Budget-friendly option with solid performance for everyday tasks.
 **Price:** $499.00 - $699.00
 **Amazon Rating:** 4.5/5
 
-[Check Price on Amazon](https://amazon.com/acer-swift-3-2026?tag=alfyliaozr20-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=acer+swift+3+2026&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 7. Microsoft Surface Laptop 5
 
@@ -83,7 +83,7 @@ The Surface Laptop 5 combines premium build quality with excellent touchscreen.
 **Price:** $899.00 - $1,299.00
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://amazon.com/microsoft-surface-laptop-5?tag=alfyliaozr20-20)
+[Shop on Amazon](https://www.amazon.com/s?k=microsoft+surface+laptop+5&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 8. LG Gram 14
 
@@ -94,7 +94,7 @@ Ultralightweight (just 2.2 lbs) with impressive battery life.
 **Price:** $899.00 - $1,199.00
 **Amazon Rating:** 4.6/5
 
-[Get It on Amazon](https://amazon.com/lg-gram-14?tag=alfyliaozr20-20)
+[Get It on Amazon](https://www.amazon.com/s?k=lg+gram+14&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 9. Razer Blade 14 (2026)
 
@@ -105,7 +105,7 @@ For students who need gaming power plus portability.
 **Price:** $1,799.00 - $2,299.00
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://amazon.com/razer-blade-14-2026?tag=alfyliaozr20-20)
+[Buy on Amazon](https://www.amazon.com/s?k=razer+blade+14+2026&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ## 10. Chromebook Plus (ASUS CX34)
 
@@ -116,7 +116,7 @@ For students who only need web browsing, Google Docs, and lightweight apps.
 **Price:** $299.00 - $399.00
 **Amazon Rating:** 4.5/5
 
-[Order on Amazon](https://amazon.com/asus-chromebook-plus-cx34?tag=alfyliaozr20-20)
+[Order on Amazon](https://www.amazon.com/s?k=asus+chromebook+plus+cx34&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
 
 ---
 
