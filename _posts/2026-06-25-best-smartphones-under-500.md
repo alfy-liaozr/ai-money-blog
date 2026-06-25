@@ -17,7 +17,7 @@ The Pixel 8a delivers flagship-level camera performance and clean Android experi
 **Price:** $449.00 - $499.00
 **Amazon Rating:** 4.8/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=google+pixel+8a&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B0D3J7PJ1M?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Samsung Galaxy A55 5G
 
@@ -28,7 +28,7 @@ Samsung's A-series flagship killer with premium build and solid performance.
 **Price:** $349.00 - $429.00
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=samsung+galaxy+a55&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0CWF2TPZP?tag=alfyliaozr20-20)
 
 ## 3. OnePlus Nord 4
 
@@ -39,7 +39,7 @@ OnePlus returns to form with the Nord 4 - excellent performance and fast chargin
 **Price:** $399.00 - $499.00
 **Amazon Rating:** 4.7/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=oneplus+nord+4&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B0D2WQBYVD?tag=alfyliaozr20-20)
 
 ## 4. Moto G Power 5G (2026)
 
@@ -50,7 +50,7 @@ Incredible battery life with 5G connectivity at a budget price.
 **Price:** $299.00 - $349.00
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=moto+g+power+5g&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B0C4YQ3S4C?tag=alfyliaozr20-20)
 
 ## 5. Nothing Phone (2a) Plus
 
@@ -61,7 +61,7 @@ Unique Glyph interface and transparent design at an affordable price.
 **Price:** $399.00
 **Amazon Rating:** 4.6/5
 
-[Order on Amazon](https://www.amazon.com/s?k=nothing+phone+2a+plus&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Order on Amazon](https://www.amazon.com/dp/B0D8FVM8SJ?tag=alfyliaozr20-20)
 
 ## 6. Xiaomi Poco F6 Pro
 
@@ -72,7 +72,7 @@ Flagship killer with top-tier specs at half the price of premium phones.
 **Price:** $449.00 - $499.00
 **Amazon Rating:** 4.6/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=xiaomi+poco+f6+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price on Amazon](https://www.amazon.com/dp/B0D2XF6C1P?tag=alfyliaozr20-20)
 
 ## 7. Samsung Galaxy A15 5G
 
@@ -83,7 +83,7 @@ Ultra-budget option that doesn't feel cheap.
 **Price:** $199.00 - $249.00
 **Amazon Rating:** 4.5/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=samsung+galaxy+a15+5g&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0CQNKVK87?tag=alfyliaozr20-20)
 
 ## 8. Nokia G400 5G
 
@@ -94,7 +94,7 @@ Clean Android One experience with solid build quality.
 **Price:** $249.00 - $299.00
 **Amazon Rating:** 4.5/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=nokia+g400+5g&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B0BBSNMC9R?tag=alfyliaozr20-20)
 
 ---
 

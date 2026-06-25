@@ -17,7 +17,7 @@ The flagship Roomba j9+ features advanced mapping, self-emptying bin, and superi
 **Price:** $899.00 - $1,099.00
 **Amazon Rating:** 4.7/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=irobot+roomba+j9+plus&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B0BRKJZ2LJ?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Roborock S8 Pro Ultra
 
@@ -28,7 +28,7 @@ The S8 Pro Ultra is a cleaning powerhouse with vibrating mop, self-cleaning, and
 **Price:** $1,399.00
 **Amazon Rating:** 4.8/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=roborock+s8+pro+ultra&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0BX3L4JHF?tag=alfyliaozr20-20)
 
 ## 3. Eufy RoboVac X8 Hybrid
 
@@ -39,7 +39,7 @@ Eufy's flagship offers LiDAR navigation and iPath technology at a competitive pr
 **Price:** $649.00 - $749.00
 **Amazon Rating:** 4.6/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=eufy+robovac+x8+hybrid&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B0CQVN4GVK?tag=alfyliaozr20-20)
 
 ## 4. Shark AV1010AE IQ
 
@@ -50,7 +50,7 @@ Shark's IQ robot vacuum offers self-emptying and IQ navigation at a lower price 
 **Price:** $499.00 - $599.00
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=shark+iq+robot+vacuum&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B09BC3YB2D?tag=alfyliaozr20-20)
 
 ## 5. Roborock Q5+
 
@@ -61,7 +61,7 @@ The Q5+ delivers excellent navigation and auto-empty at a mid-range price.
 **Price:** $459.00 - $549.00
 **Amazon Rating:** 4.7/5
 
-[Order on Amazon](https://www.amazon.com/s?k=roborock+q5+plus&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Order on Amazon](https://www.amazon.com/dp/B0BCN6R6PF?tag=alfyliaozr20-20)
 
 ## 6. iLife A4s Pro
 
@@ -72,7 +72,7 @@ Budget-friendly robot vacuum that gets the job done without fancy features.
 **Price:** $159.00 - $199.00
 **Amazon Rating:** 4.4/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=ilife+a4s+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price on Amazon](https://www.amazon.com/dp/B0BZ6HRLCJ?tag=alfyliaozr20-20)
 
 ## 7. Dreametech L10 Prime
 
@@ -83,7 +83,7 @@ The L10 Prime offers LiDAR navigation and mopping at an attractive price.
 **Price:** $399.00 - $499.00
 **Amazon Rating:** 4.6/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=dreametech+l10+prime&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0CQ35RHLP?tag=alfyliaozr20-20)
 
 ---
 

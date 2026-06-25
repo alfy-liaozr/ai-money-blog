@@ -16,7 +16,7 @@ Say goodbye to 15 pairs of dumbbells cluttering your workout space. The Bowflex 
 **Price:** $349.00
 **Amazon Rating:** 4.8/5 (15,000+ reviews)
 
-[Check Price on Amazon](https://www.amazon.com/s?k=bowflex+selecttech+552&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B001ARYU58?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. TRX All-In-One Suspension Training System
 
@@ -26,7 +26,7 @@ The TRX system uses your body weight for a full-body workout anywhere. Perfect f
 **Price:** $149.95
 **Amazon Rating:** 4.7/5
 
-[Shop TRX on Amazon](https://www.amazon.com/s?k=trx+suspension+trainer&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop TRX on Amazon](https://www.amazon.com/dp/B01MRTPVJ9?tag=alfyliaozr20-20)
 
 ## 3. Rogue Rubber Coated Kettlebell
 
@@ -36,7 +36,7 @@ Kettlebell training builds functional strength and cardio endurance. Rogue's ket
 **Price:** $39.00 - $129.00 (depending on weight)
 **Amazon Rating:** 4.8/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=rogue+kettlebell&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B07KC6YBCH?tag=alfyliaozr20-20)
 
 ## 4. Manduka PRO Yoga Mat
 
@@ -46,7 +46,7 @@ Whether you're into yoga, Pilates, or bodyweight workouts, the Manduka PRO mat p
 **Price:** $98.00 - $138.00
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=manduka+pro+yoga+mat&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B000GYQ0U0?tag=alfyliaozr20-20)
 
 ## 5. Schwinn 170 Upright Bike
 
@@ -56,7 +56,7 @@ For low-impact cardio, the Schwinn 170 offers 25 resistance levels, Bluetooth co
 **Price:** $599.00
 **Amazon Rating:** 4.6/5
 
-[Check Latest Price](https://www.amazon.com/s?k=schwinn+upright+bike&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Latest Price](https://www.amazon.com/dp/B07P7H1B8N?tag=alfyliaozr20-20)
 
 ## 6. PowerBlock Elite Adjustable Dumbbells
 
@@ -66,7 +66,7 @@ Another excellent adjustable dumbbell option, PowerBlock Elite goes up to 90 lbs
 **Price:** $399.00 - $649.00
 **Amazon Rating:** 4.7/5
 
-[Order on Amazon](https://www.amazon.com/s?k=powerblock+elite&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Order on Amazon](https://www.amazon.com/dp/B07DDQ2BLP?tag=alfyliaozr20-20)
 
 ## 7. Gaiam Essentials Yoga Block (2-Pack)
 
@@ -76,7 +76,7 @@ Yoga blocks help with alignment and flexibility, especially for beginners. This 
 **Price:** $14.98
 **Amazon Rating:** 4.8/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=gaiam+essentials+yoga+block&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B00KJTS5W2?tag=alfyliaozr20-20)
 
 ---
 

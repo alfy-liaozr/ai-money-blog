@@ -17,7 +17,7 @@ The gold standard of ergonomic office chairs. The Aeron features breathable mesh
 **Price:** $1,395.00 - $1,795.00
 **Amazon Rating:** 4.7/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=herman+miller+aeron&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B00J4F3P7S?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Steelcase Gesture
 
@@ -28,7 +28,7 @@ The Gesture is designed to support modern work postures — including cross-legg
 **Price:** $1,149.00 - $1,599.00
 **Amazon Rating:** 4.8/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=steelcase+gesture+office+chair&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B07TCNR4DP?tag=alfyliaozr20-20)
 
 ## 3. Secretlab Titan Evo 2026
 
@@ -39,7 +39,7 @@ The Titan Evo is the most popular gaming chair that doubles as an excellent offi
 **Price:** $549.00 - $679.00
 **Amazon Rating:** 4.9/5
 
-[Check Latest Price](https://www.amazon.com/s?k=secretlab+titan+evo&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Latest Price](https://www.amazon.com/dp/B096Y3P5LM?tag=alfyliaozr20-20)
 
 ## 4. Branch Ergonomic Chair
 
@@ -50,7 +50,7 @@ The Branch chair delivers premium ergonomics at a mid-range price point.
 **Price:** $349.00
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=branch+ergonomic+chair&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B0931NNGQZ?tag=alfyliaozr20-20)
 
 ## 5. HON Ignition 2.0
 
@@ -61,7 +61,7 @@ The HON Ignition 2.0 offers exceptional value with its intuitive adjustability.
 **Price:** $299.00 - $399.00
 **Amazon Rating:** 4.5/5
 
-[Check Price](https://www.amazon.com/s?k=hon+ignition+2+0&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price](https://www.amazon.com/dp/B084G3BV4K?tag=alfyliaozr20-20)
 
 ## 6. Sidiz T50 Air
 
@@ -72,7 +72,7 @@ The Sidiz T50 Air features a unique mesh back that combines breathability with s
 **Price:** $449.00 - $549.00
 **Amazon Rating:** 4.6/5
 
-[Shop Now](https://www.amazon.com/s?k=sidiz+t50+air&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop Now](https://www.amazon.com/dp/B089KZ3L1W?tag=alfyliaozr20-20)
 
 ## 7. Hbada Ergonomic Office Chair
 
@@ -83,7 +83,7 @@ This budget-friendly option has become a bestseller thanks to great ergonomics u
 **Price:** $169.99
 **Amazon Rating:** 4.4/5 (25,000+ reviews)
 
-[Buy on Amazon](https://www.amazon.com/s?k=hbada+ergonomic+office+chair&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B081B3Q2P8?tag=alfyliaozr20-20)
 
 ## 8. Herman Miller Sayl
 
@@ -94,7 +94,7 @@ The Sayl uses a suspension back design inspired by suspension bridges for flexib
 **Price:** $795.00 - $995.00
 **Amazon Rating:** 4.6/5
 
-[Check Price](https://www.amazon.com/s?k=herman+miller+sayl&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price](https://www.amazon.com/dp/B00J4F3P6P?tag=alfyliaozr20-20)
 
 ## Quick Comparison
 

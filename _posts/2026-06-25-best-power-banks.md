@@ -17,7 +17,7 @@ The Anker PowerCore 26800 is the most trusted power bank in the world. Massive c
 **Price:** $49.99 - $59.99
 **Amazon Rating:** 4.8/5 (50,000+ reviews)
 
-[Check Price on Amazon](https://www.amazon.com/s?k=anker+powercore+26800&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B019G6WPWM?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Anker MagGo Power Bank (10K)
 
@@ -28,7 +28,7 @@ The perfect MagSafe-compatible power bank for iPhone users — no cables needed.
 **Price:** $39.99 - $49.99
 **Amazon Rating:** 4.6/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=anker+maggo+power+bank&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0B5N7NTZT?tag=alfyliaozr20-20)
 
 ## 3. Baseus 65W 26800mAh Power Bank
 
@@ -39,7 +39,7 @@ The Baseus 65W can charge a MacBook Pro at full speed while also charging your p
 **Price:** $45.99 - $55.99
 **Amazon Rating:** 4.7/5
 
-[Check Price](https://www.amazon.com/s?k=baseus+65w+power+bank&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price](https://www.amazon.com/dp/B0C4MCZRC3?tag=alfyliaozr20-20)
 
 ## 4. Mophie Powerstation Pro XL
 
@@ -50,7 +50,7 @@ Mophie's premium power bank offers 20,000mAh of fast-charging capacity with a sl
 **Price:** $99.95 - $119.95
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=mophie+powerstation+pro+xl&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B09Y6QWM6Z?tag=alfyliaozr20-20)
 
 ## 5. INIU Portable Charger 20000mAh
 
@@ -61,7 +61,7 @@ INIU offers exceptional value — high capacity, fast charging, and a 3-year war
 **Price:** $25.99 - $32.99
 **Amazon Rating:** 4.7/5 (30,000+ reviews)
 
-[Check Price](https://www.amazon.com/s?k=iniu+portable+charger+20000&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price](https://www.amazon.com/dp/B07CZDYCZP?tag=alfyliaozr20-20)
 
 ## 6. Jackery Bolt 6000
 
@@ -72,7 +72,7 @@ The Jackery Bolt features built-in Lightning and USB-C cables — no carrying ex
 **Price:** $29.99 - $39.99
 **Amazon Rating:** 4.5/5
 
-[Shop Now](https://www.amazon.com/s?k=jackery+bolt+6000&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop Now](https://www.amazon.com/dp/B0BXH4MNWP?tag=alfyliaozr20-20)
 
 ## 7. Goal Zero Sherpa 100PD
 
@@ -83,7 +83,7 @@ The Sherpa 100PD is built for adventurers — it can charge via solar panels and
 **Price:** $149.95 - $199.95
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=goal+zero+sherpa+100pd&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B08LQ7LF6D?tag=alfyliaozr20-20)
 
 ## Capacity Guide
 

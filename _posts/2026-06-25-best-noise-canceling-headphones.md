@@ -17,7 +17,7 @@ Sony's flagship headphones offer industry-leading noise cancellation and excepti
 **Price:** $348.00 - $399.99
 **Amazon Rating:** 4.8/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=sony+wh+1000xm6&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B0F6RSZGHT?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Bose QuietComfort Ultra
 
@@ -28,7 +28,7 @@ Bose's most advanced headphones feature CustomTune technology for personalized A
 **Price:** $429.00
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=bose+qc+ultra&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0CD2FS4ZX?tag=alfyliaozr20-20)
 
 ## 3. Apple AirPods Max (2026)
 
@@ -39,7 +39,7 @@ Apple's over-ear headphones with H3 chip for seamless Apple ecosystem integratio
 **Price:** $549.00
 **Amazon Rating:** 4.7/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=airpods+max+2026&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B0DJDZL4PQ?tag=alfyliaozr20-20)
 
 ## 4. Sennheiser Momentum 4 Wireless
 
@@ -50,7 +50,7 @@ German engineering meets modern features with 60-hour battery life.
 **Price:** $299.99 - $349.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=sennheiser+momentum+4&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B09Y2YH4NL?tag=alfyliaozr20-20)
 
 ## 5. Anker Soundcore Space Q45
 
@@ -61,7 +61,7 @@ Amazing value with 50dB ANC depth and 50-hour battery.
 **Price:** $149.99
 **Amazon Rating:** 4.6/5
 
-[Order on Amazon](https://www.amazon.com/s?k=anker+space+q45&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Order on Amazon](https://www.amazon.com/dp/B0BXDZQ3BZ?tag=alfyliaozr20-20)
 
 ## 6. Bang & Olufsen Beoplay HX
 
@@ -72,7 +72,7 @@ Luxury materials and balanced sound signature for discerning listeners.
 **Price:** $499.00
 **Amazon Rating:** 4.6/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=bang+olufsen+beoplay+hx&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price on Amazon](https://www.amazon.com/dp/B091K4Y75T?tag=alfyliaozr20-20)
 
 ## 7. Jabra Evolve2 85
 
@@ -83,7 +83,7 @@ Professional-grade headphones optimized for calls and meetings.
 **Price:** $249.99 - $299.99
 **Amazon Rating:** 4.6/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=jabra+evolve2+85&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B09HSXMFLR?tag=alfyliaozr20-20)
 
 ## 8. Audio-Technica ATH-M50xBT2
 
@@ -94,7 +94,7 @@ Studio-monitor quality in a wireless package.
 **Price:** $199.99
 **Amazon Rating:** 4.7/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=audio+technica+ath+m50xbt2&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B0B6XTWMJF?tag=alfyliaozr20-20)
 
 ## 9. Marshall Monitor II A.N.C.
 
@@ -105,7 +105,7 @@ Iconic Marshall design with customizable ANC and 30-hour battery.
 **Price:** $299.99
 **Amazon Rating:** 4.5/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=marshall+monitor+2&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B0BHMLZVHX?tag=alfyliaozr20-20)
 
 ## 10. JBL Tour One M2
 
@@ -116,7 +116,7 @@ Smart features and adaptive ANC for everyday use.
 **Price:** $249.99
 **Amazon Rating:** 4.6/5
 
-[Order on Amazon](https://www.amazon.com/s?k=jbl+tour+one+m2&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Order on Amazon](https://www.amazon.com/dp/B0B5MQ6FHB?tag=alfyliaozr20-20)
 
 ---
 

@@ -16,7 +16,7 @@ The KONG Classic remains the gold standard for dog toys. Made from natural rubbe
 **Price:** $12.99 - $18.99
 **Amazon Rating:** 4.7/5 (50,000+ reviews)
 
-[Buy on Amazon](https://www.amazon.com/s?k=kong+classic+dog+toy&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission from qualifying purchases)*
+[Buy on Amazon](https://www.amazon.com/dp/B0002AR0I8?tag=alfyliaozr20-20) *(I may earn a commission from qualifying purchases)*
 
 ## 2. Chuckit! Ultra Ball
 
@@ -26,7 +26,7 @@ If your dog loves fetch, the Chuckit! Ultra Ball is a must-have. It's more durab
 **Price:** $9.99 (2-pack)
 **Amazon Rating:** 4.8/5
 
-[Check Latest Price on Amazon](https://www.amazon.com/s?k=chuckit+ultra+ball&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Latest Price on Amazon](https://www.amazon.com/dp/B0006G7H3W?tag=alfyliaozr20-20)
 
 ## 3. Nylabone Dura Chew Textured Ring
 
@@ -36,7 +36,7 @@ For aggressive chewers, the Nylabone Dura Chew Ring provides long-lasting durabi
 **Price:** $8.99 - $12.99
 **Amazon Rating:** 4.6/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=nylabone+dura+chew&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B000GZWK4E?tag=alfyliaozr20-20)
 
 ## 4. Outward Hound Puzzle Toy
 
@@ -46,7 +46,7 @@ Mental stimulation is just as important as physical exercise. This puzzle toy ch
 **Price:** $14.99 - $19.99
 **Amazon Rating:** 4.5/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=outward+hound+puzzle&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B08HJPFPBQ?tag=alfyliaozr20-20)
 
 ## 5. ZippyPaws Burrow Squeaky Hide and Seek
 
@@ -56,7 +56,7 @@ This interactive toy features a plush tree trunk with squeaky squirrels that dog
 **Price:** $12.99 - $16.99
 **Amazon Rating:** 4.6/5
 
-[Order on Amazon](https://www.amazon.com/s?k=zippypaws+burrow+squirrel&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Order on Amazon](https://www.amazon.com/dp/B077M9WQLB?tag=alfyliaozr20-20)
 
 ## 6. Benebone Wishbone Chew Toy
 
@@ -66,7 +66,7 @@ Made in the USA, Benebone uses real bacon, chicken, or peanut butter flavoring. 
 **Price:** $10.99 - $14.99
 **Amazon Rating:** 4.7/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=benebone+wishbone&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B0141M0J5W?tag=alfyliaozr20-20)
 
 ## 7. JW Hol-ee Roller Dog Toy
 
@@ -76,7 +76,7 @@ This versatile rubber toy can be used as a ball, frisbee, or tug toy. The unique
 **Price:** $7.99 - $11.99
 **Amazon Rating:** 4.5/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=jw+hol+ee+roller&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price on Amazon](https://www.amazon.com/dp/B0007V5W1M?tag=alfyliaozr20-20)
 
 ## 8. Hartz Dura Play Ball
 
@@ -86,7 +86,7 @@ An affordable yet durable option, the Hartz Dura Play Ball is perfect for budget
 **Price:** $5.99 - $8.99
 **Amazon Rating:** 4.4/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=hartz+dura+play&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B07JHM9M1R?tag=alfyliaozr20-20)
 
 ## 9. Chuckit! Launcher
 
@@ -96,7 +96,7 @@ Take fetch to the next level with the Chuckit! Launcher. It lets you throw balls
 **Price:** $9.99 - $14.99
 **Amazon Rating:** 4.8/5
 
-[Get It on Amazon](https://www.amazon.com/s?k=chuckit+launcher&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Get It on Amazon](https://www.amazon.com/dp/B0006G7H42?tag=alfyliaozr20-20)
 
 ## 10. Nerf Dog Atomic Flyer
 
@@ -106,7 +106,7 @@ A soft, flexible frisbee that's gentle on your dog's mouth. It flies straight an
 **Price:** $9.99 - $13.99
 **Amazon Rating:** 4.6/5
 
-[Order on Amazon](https://www.amazon.com/s?k=nerf+dog+atomic+flyer&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Order on Amazon](https://www.amazon.com/dp/B07HGQWPGF?tag=alfyliaozr20-20)
 
 ---
 

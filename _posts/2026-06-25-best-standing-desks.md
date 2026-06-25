@@ -17,7 +17,7 @@ The Uplift V2 is widely considered the best standing desk on the market. With a 
 **Price:** $599.00 - $959.00
 **Amazon Rating:** 4.8/5 (10,000+ reviews)
 
-[Check Price on Amazon](https://www.amazon.com/s?k=uplift+v2+commercial&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B07M6VBNWF?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Jarvis Bamboo Standing Desk (Fully)
 
@@ -28,7 +28,7 @@ The Jarvis by Fully offers a perfect balance of quality and price with exception
 **Price:** $449.00 - $599.00
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=jarvis+bamboo+standing+desk&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0B61LPP6J?tag=alfyliaozr20-20)
 
 ## 3. Flexispot E7 Pro
 
@@ -39,7 +39,7 @@ The Flexispot E7 Pro delivers premium features at a mid-range price point.
 **Price:** $349.99 - $499.99
 **Amazon Rating:** 4.7/5
 
-[Check Price](https://www.amazon.com/s?k=flexispot+e7+pro&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price](https://www.amazon.com/dp/B0C7BSZX58?tag=alfyliaozr20-20)
 
 ## 4. Vari Electric Standing Desk
 
@@ -50,7 +50,7 @@ The Vari desk is known for its incredibly simple setup — no tools required.
 **Price:** $495.00 - $625.00
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=vari+electric+standing+desk&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B07VX3LKJT?tag=alfyliaozr20-20)
 
 ## 5. ApexDesk Elite Series
 
@@ -61,7 +61,7 @@ The ApexDesk Elite offers a massive 60" x 30" desktop at a competitive price.
 **Price:** $379.99 - $449.99
 **Amazon Rating:** 4.6/5
 
-[Shop Now](https://www.amazon.com/s?k=apexdesk+elite+series&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop Now](https://www.amazon.com/dp/B07PMW3FKX?tag=alfyliaozr20-20)
 
 ## 6. Vivo Electric Standing Desk
 
@@ -72,7 +72,7 @@ The best budget standing desk that doesn't compromise on essential features.
 **Price:** $269.99
 **Amazon Rating:** 4.5/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=vivo+electric+standing+desk&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B08CHF3B71?tag=alfyliaozr20-20)
 
 ## Pro Tips for Standing Desks
 

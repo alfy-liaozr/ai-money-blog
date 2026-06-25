@@ -17,7 +17,7 @@ The iPad Air strikes the perfect balance of power, portability, and price for st
 **Price:** $599.00 - $749.00
 **Amazon Rating:** 4.8/5
 
-[Check Price on Amazon](https://www.amazon.com/s?k=apple+ipad+air+m4&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl) *(I may earn a commission)*
+[Check Price on Amazon](https://www.amazon.com/dp/B0DZ5L2F55?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Samsung Galaxy Tab S9 FE
 
@@ -28,7 +28,7 @@ The Galaxy Tab S9 FE brings premium tablet features at a student-friendly price 
 **Price:** $349.99 - $449.99
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://www.amazon.com/s?k=samsung+galaxy+tab+s9+fe&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Shop on Amazon](https://www.amazon.com/dp/B0C4F4P5XN?tag=alfyliaozr20-20)
 
 ## 3. Apple iPad 10th Gen
 
@@ -39,7 +39,7 @@ The standard iPad is the most popular tablet in the world for good reason — it
 **Price:** $349.00 - $449.00
 **Amazon Rating:** 4.8/5 (100,000+ reviews)
 
-[Check Price](https://www.amazon.com/s?k=apple+ipad+10th+gen&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price](https://www.amazon.com/dp/B0BJLCLQQG?tag=alfyliaozr20-20)
 
 ## 4. Amazon Fire Max 11
 
@@ -50,7 +50,7 @@ The Fire Max 11 offers a large screen at the lowest price — perfect for budget
 **Price:** $179.99 - $229.99
 **Amazon Rating:** 4.6/5
 
-[Buy on Amazon](https://www.amazon.com/s?k=amazon+fire+max+11&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Buy on Amazon](https://www.amazon.com/dp/B0B1L7Q5C2?tag=alfyliaozr20-20)
 
 ## 5. Microsoft Surface Pro 10
 
@@ -61,7 +61,7 @@ The Surface Pro 10 is a full Windows PC in tablet form — for when a tablet isn
 **Price:** $999.99 - $1,599.99
 **Amazon Rating:** 4.6/5
 
-[Check Price](https://www.amazon.com/s?k=microsoft+surface+pro+10&tag=alfyliaozr20-20&linkCode=ll1&ref=as_li_ss_tl)
+[Check Price](https://www.amazon.com/dp/B0CZH3Q6GM?tag=alfyliaozr20-20)
 
 ## What to Buy With Your Tablet
 
