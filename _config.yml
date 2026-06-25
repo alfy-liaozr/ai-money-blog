@@ -1,0 +1,50 @@
+# AI Money System - Jekyll Configuration
+title: "AI Money System"
+description: "Automated affiliate blog generating passive income through AI-generated content"
+baseurl: "/ai-money-blog"
+url: "https://alfy-liaozr.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-theme-minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO
+author:
+  name: "AI Money System"
+  email: ""
+
+# Social
+social:
+  links:
+    - https://github.com/aly-liaozr
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

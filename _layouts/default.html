@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% raw %}{{ page.title | default: site.title }}{% endraw %}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="feed" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+  
+  <!-- SEO -->
+  <meta name="description" content="{% raw %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace }}{% endraw %}">
+  <meta name="keywords" content="{% raw %}{{ page.tags | join: ', ' }}{% endraw %}">
+  
+  <!-- Google AdSense (to be added later) -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXX" crossorigin="anonymous"></script> -->
+</head>
+<body>
+  <header>
+    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about' | relative_url }}">About</a>
+      <a href="{{ '/blog' | relative_url }}">Blog</a>
+    </nav>
+  </header>
+  
+  <main>
+    {{ content }}
+  </main>
+  
+  <footer>
+    <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    <p><small>Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a>.</small></p>
+  </footer>
+</body>
+</html>
