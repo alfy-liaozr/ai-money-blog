@@ -55,7 +55,7 @@
         {% if page.tags.size > 0 %}
         <span class="post-tags">
           {% for tag in page.tags %}
-          <a href="{{ '/tag/' | relative_url }}{{ tag | slugify }}/">{{ tag }}</a>
+          <a href="{{ '/tag/' | relative_url }}{{ tag | append: '' | slugify }}/">{{ tag }}</a>
           {% endfor %}
         </span>
         {% endif %}

@@ -1,7 +1,7 @@
 ---
 title: "10 Best Dog Toys for 2026: Keep Your Pup Happy and Healthy"
 date: 2026-06-25
-tags: [dog toys, pet care, Amazon affiliate, 2026]
+tags: ["dog toys", "pet care", "Amazon affiliate", "2026"]
 ---
 
 # 10 Best Dog Toys for 2026: Keep Your Pup Happy and Healthy
