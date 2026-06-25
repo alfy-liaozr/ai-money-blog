@@ -1,0 +1,15 @@
+<footer>
+  <div class="container">
+    <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    <p style="font-size: 0.85rem; color: #95a5a6; max-width: 600px; margin: 0.5rem auto;">
+      <em>{{ site.title }} is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.</em>
+    </p>
+    <nav class="footer-nav">
+      <a href="{{ '/about' | relative_url }}">About</a> |
+      <a href="{{ '/disclosure' | relative_url }}">Affiliate Disclosure</a> |
+      <a href="{{ '/privacy' | relative_url }}">Privacy Policy</a> |
+      <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+    </nav>
+    <p><small>Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a>.</small></p>
+  </div>
+</footer>

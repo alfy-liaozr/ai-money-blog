@@ -1,6 +1,7 @@
 # AI Money System - Jekyll Configuration
 title: "AI Money System"
-description: "Automated affiliate blog generating passive income through AI-generated content"
+tagline: "AI-Powered Product Reviews & Buying Guides"
+description: "Discover the best products through AI-generated reviews. Honest, data-driven buying guides for smart shoppers. As an Amazon Associate, we earn from qualifying purchases."
 baseurl: "/ai-money-blog"
 url: "https://alfy-liaozr.github.io"
 
@@ -13,15 +14,27 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # SEO
 author:
   name: "AI Money System"
-  email: ""
+  twitter: ""
+
+# Social
+social:
+  name: "AI Money System"
+  links:
+    - "https://github.com/alfy-liaozr/ai-money-blog"
 
 # Pagination
 paginate: 5
 paginate_path: "/page:num/"
+
+# Collections
+collections:
+  pages:
+    output: true
 
 # Defaults
 defaults:
@@ -30,6 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author: "AI Money System"
   - scope:
       path: ""
       type: "pages"
@@ -43,3 +57,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - scripts
+
+# Amazon Associates
+amazon_tag: "alfyliaozr20-20"

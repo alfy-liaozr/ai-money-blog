@@ -1,67 +1,82 @@
 ---
 layout: default
-title: "AI Money System - Automated Affiliate Blog"
-description: "Discover the best products through AI-generated reviews and earn passive income with our automated affiliate system."
+title: "AI-Powered Product Reviews & Buying Guides"
+description: "Discover the best products through data-driven AI reviews. We analyze thousands of reviews to find you the best value across tech, home, fitness, and more."
 ---
 
 # Welcome to AI Money System 💰
 
-Welcome to our automated affiliate blog! We use cutting-edge AI technology to generate in-depth product reviews and buying guides to help you make informed purchasing decisions.
+**Your AI-powered guide to smarter shopping.** We analyze thousands of product reviews, track price trends, and synthesize expert opinions — so you don't have to.
 
-## 🎯 What We Do
+{% include affiliate-disclosure.html %}
 
-We leverage artificial intelligence to:
+## 🎯 Today's Top Categories
 
-- ✅ Research and analyze thousands of products
-- ✅ Generate comprehensive, unbiased reviews
-- ✅ Identify the best deals and highest-value purchases
-- ✅ Update content regularly to reflect market changes
+<div class="category-grid">
+  <div class="category-card">
+    <h3>🎧 Audio</h3>
+    <p>Earbuds, headphones & speakers</p>
+    <a href="{{ '/tag/wireless-earbuds/' | relative_url }}" class="btn">Browse →</a>
+  </div>
+  <div class="category-card">
+    <h3>💻 Tech</h3>
+    <p>Laptops, phones & gadgets</p>
+    <a href="{{ '/tag/tech/' | relative_url }}" class="btn">Browse →</a>
+  </div>
+  <div class="category-card">
+    <h3>🏋️ Fitness</h3>
+    <p>Home gym & workout gear</p>
+    <a href="{{ '/tag/home-gym/' | relative_url }}" class="btn">Browse →</a>
+  </div>
+  <div class="category-card">
+    <h3>🍳 Kitchen</h3>
+    <p>Gadgets & appliances</p>
+    <a href="{{ '/tag/kitchen-gadgets/' | relative_url }}" class="btn">Browse →</a>
+  </div>
+  <div class="category-card">
+    <h3>🐾 Pets</h3>
+    <p>Toys & pet supplies</p>
+    <a href="{{ '/tag/dog-toys/' | relative_url }}" class="btn">Browse →</a>
+  </div>
+  <div class="category-card">
+    <h3>🤖 Smart Home</h3>
+    <p>Robot vacuums & automation</p>
+    <a href="{{ '/tag/robot-vacuum/' | relative_url }}" class="btn">Browse →</a>
+  </div>
+</div>
 
-## 📝 Latest Posts
+## 📝 Latest Reviews & Guides
 
-<ul>
+<ul class="post-list">
 {% for post in site.posts limit:10 %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <span style="color: #7f8c8d; font-size: 0.9rem;"> - {{ post.date | date: "%B %-d, %Y" }}</span>
+  <li class="post-list-item">
+    <a href="{{ post.url | relative_url }}" class="post-list-title">{{ post.title }}</a>
+    <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+    <span class="post-list-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</span>
   </li>
 {% endfor %}
 </ul>
 
-## 🔍 Popular Categories
+{% if site.posts.size > 10 %}
+<p style="text-align: center; margin-top: 2rem;"><a href="{{ '/blog' | relative_url }}" class="btn">View All Posts →</a></p>
+{% endif %}
 
-- [Dog Toys & Pet Supplies](/tag/dog-toys/)
-- [Home Gym Equipment](/tag/home-gym/)
-- [Wireless Earbuds & Audio](/tag/wireless-earbuds/)
-- [Kitchen Gadgets](/tag/kitchen-gadgets/)
-- [Tech Gadgets](/tag/tech-gadgets/)
+## 🔍 Popular Reviews
 
-## 💡 Why Trust Us?
-
-Our AI-powered system analyzes thousands of data points including:
-
-1. **Customer Reviews** - We process thousands of real user reviews
-2. **Price History** - We track price trends to identify the best time to buy
-3. **Expert Opinions** - We synthesize expert reviews from trusted sources
-4. **Feature Comparisons** - We create detailed comparison tables
-
-## 🤖 Our Mission
-
-To create the world's most comprehensive, unbiased, and up-to-date product recommendation platform - fully automated and constantly improving.
+- [Best Wireless Earbuds 2026]({{ '/wireless-earbuds/best-wireless-earbuds-2026' | relative_url }})
+- [Best Laptops for Students]({{ '/laptops/best-laptops-for-students-2026' | relative_url }})
+- [Best Robot Vacuums]({{ '/robot-vacuums/best-robot-vacuums-2026' | relative_url }})
+- [Best Noise-Canceling Headphones]({{ '/headphones/best-noise-canceling-headphones-2026' | relative_url }})
 
 ---
 
-## 📧 Contact
+### 💡 How We Help You Save
 
-Have questions or suggestions? Feel free to reach out!
-
-**Disclaimer:** As an Amazon Associate, we earn from qualifying purchases. This helps us maintain this blog and continue providing valuable content.
-
-## 🔗 Follow Us
-
-- [GitHub](https://github.com/aly-liaozr/ai-money-blog)
-- [Subscribe to RSS](/feed.xml)
-
----
+| Feature | What It Means For You |
+|---------|----------------------|
+| 📊 Data-Driven | We analyze 10,000+ real reviews |
+| 💰 Best Value | Budget to premium, we find the sweet spot |
+| 🔄 Always Fresh | Prices and picks updated regularly |
+| 🏷️ Affiliate Links | You pay nothing extra, we earn a small commission |
 
 *Last updated: {{ 'now' | date: "%B %-d, %Y" }}*

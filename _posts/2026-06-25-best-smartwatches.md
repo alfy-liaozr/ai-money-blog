@@ -17,7 +17,7 @@ The ultimate smartwatch for outdoor enthusiasts and athletes.
 **Price:** $799.00
 **Amazon Rating:** 4.8/5
 
-[Check Price on Amazon](https://amazon.com/apple-watch-ultra-3) *(I may earn a commission)*
+[Check Price on Amazon](https://amazon.com/apple-watch-ultra-3?tag=alfyliaozr20-20) *(I may earn a commission)*
 
 ## 2. Samsung Galaxy Watch 7
 
@@ -28,7 +28,7 @@ Samsung's flagship smartwatch with advanced health sensors and rotating bezel.
 **Price:** $299.99 - $349.99
 **Amazon Rating:** 4.7/5
 
-[Shop on Amazon](https://amazon.com/samsung-galaxy-watch-7)
+[Shop on Amazon](https://amazon.com/samsung-galaxy-watch-7?tag=alfyliaozr20-20)
 
 ## 3. Garmin Fenix 8
 
@@ -39,7 +39,7 @@ The gold standard for multi-sport athletes and adventurers.
 **Price:** $699.99 - $899.99
 **Amazon Rating:** 4.8/5
 
-[Get It on Amazon](https://amazon.com/garmin-fenix-8)
+[Get It on Amazon](https://amazon.com/garmin-fenix-8?tag=alfyliaozr20-20)
 
 ## 4. Apple Watch Series 10
 
@@ -50,7 +50,7 @@ The mainstream Apple Watch with the new S10 chip and larger display.
 **Price:** $399.00 - $499.00
 **Amazon Rating:** 4.8/5
 
-[Buy on Amazon](https://amazon.com/apple-watch-series-10)
+[Buy on Amazon](https://amazon.com/apple-watch-series-10?tag=alfyliaozr20-20)
 
 ## 5. Fitbit Sense 3
 
@@ -61,7 +61,7 @@ Google's health-focused smartwatch with 6-day battery.
 **Price:** $229.95 - $279.95
 **Amazon Rating:** 4.6/5
 
-[Order on Amazon](https://amazon.com/fitbit-sense-3)
+[Order on Amazon](https://amazon.com/fitbit-sense-3?tag=alfyliaozr20-20)
 
 ## 6. COROS Pace 3
 
@@ -72,7 +72,7 @@ Lightweight watch for runners with incredible battery life.
 **Price:** $229.00
 **Amazon Rating:** 4.7/5
 
-[Check Price on Amazon](https://amazon.com/coros-pace-3)
+[Check Price on Amazon](https://amazon.com/coros-pace-3?tag=alfyliaozr20-20)
 
 ## 7. Amazfit T-Rex Ultra
 
@@ -83,7 +83,7 @@ Rugged military-grade smartwatch with 20-day battery.
 **Price:** $299.99
 **Amazon Rating:** 4.6/5
 
-[Shop on Amazon](https://amazon.com/amazfit-t-rex-ultra)
+[Shop on Amazon](https://amazon.com/amazfit-t-rex-ultra?tag=alfyliaozr20-20)
 
 ---
 
