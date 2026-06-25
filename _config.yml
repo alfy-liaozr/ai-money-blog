@@ -7,9 +7,9 @@ url: "https://alfy-liaozr.github.io"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-minima
+theme: jekyll-theme-primer
 
-# Plugins
+# Plugins (GitHub Pages supported)
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -18,11 +18,6 @@ plugins:
 author:
   name: "AI Money System"
   email: ""
-
-# Social
-social:
-  links:
-    - https://github.com/aly-liaozr
 
 # Pagination
 paginate: 5
