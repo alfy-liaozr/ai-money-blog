@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "AI-Powered Product Reviews & Buying Guides"
-description: "Discover the best products through data-driven AI reviews. We analyze thousands of reviews to find you the best value across tech, home, fitness, and more."
+title: "Product Reviews & Buying Guides"
+description: "Honest product reviews and buying guides. We research, compare, and recommend the best products across tech, home, fitness, and more."
 ---
 
-# Welcome to AI Money System 💰
+# Welcome to Smart Pick Reviews
 
-**Your AI-powered guide to smarter shopping.** We analyze thousands of product reviews, track price trends, and synthesize expert opinions — so you don't have to.
+**Real research. Honest recommendations.** We compare products across hundreds of categories — analyzing features, prices, and real user feedback — so you can shop with confidence.
 
 {% include affiliate-disclosure.html %}
 
@@ -61,22 +61,6 @@ description: "Discover the best products through data-driven AI reviews. We anal
 <p style="text-align: center; margin-top: 2rem;"><a href="{{ '/blog' | relative_url }}" class="btn">View All Posts →</a></p>
 {% endif %}
 
-## 🔍 Popular Reviews
-
-- [Best Wireless Earbuds 2026]({{ '/wireless-earbuds/best-wireless-earbuds-2026' | relative_url }})
-- [Best Laptops for Students]({{ '/laptops/best-laptops-for-students-2026' | relative_url }})
-- [Best Robot Vacuums]({{ '/robot-vacuums/best-robot-vacuums-2026' | relative_url }})
-- [Best Noise-Canceling Headphones]({{ '/headphones/best-noise-canceling-headphones-2026' | relative_url }})
-
----
-
-### 💡 How We Help You Save
-
-| Feature | What It Means For You |
-|---------|----------------------|
-| 📊 Data-Driven | We analyze 10,000+ real reviews |
-| 💰 Best Value | Budget to premium, we find the sweet spot |
-| 🔄 Always Fresh | Prices and picks updated regularly |
-| 🏷️ Affiliate Links | You pay nothing extra, we earn a small commission |
-
 *Last updated: {{ 'now' | date: "%B %-d, %Y" }}*
+
+*Product prices and availability are subject to change. © {{ 'now' | date: "%Y" }} Smart Pick Reviews*

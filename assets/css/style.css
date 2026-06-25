@@ -1,4 +1,4 @@
-/* AI Money System - Main Stylesheet */
+/* Smart Pick Reviews - Main Stylesheet */
 
 /* Reset & Base */
 * {
@@ -338,6 +338,18 @@ footer a:hover {
 
 .footer-nav a:hover {
   color: #3498db;
+}
+
+/* Price Disclaimer */
+.price-disclaimer {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  padding: 0.8rem 1rem;
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  color: #7f8c8d;
+  text-align: center;
 }
 
 /* Responsive */

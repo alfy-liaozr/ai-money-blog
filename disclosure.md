@@ -25,7 +25,7 @@ As an Amazon Associate, **I earn from qualifying purchases**. This means:
 
 ## Transparency Commitment
 
-- All product recommendations are based on research and data analysis
+- All product recommendations are based on research and comparison
 - I prioritize products with high ratings and proven value
 - I do **not** accept payment for positive reviews
 - I clearly mark all affiliate links so you know when a link may generate commission

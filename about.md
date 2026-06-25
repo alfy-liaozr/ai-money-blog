@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About AI Money System"
+title: "About"
 permalink: /about/
 ---
 
@@ -8,32 +8,30 @@ permalink: /about/
 
 ## Our Mission
 
-**{{ site.title }}** uses cutting-edge AI technology to research, analyze, and recommend the best products across hundreds of categories. Our goal is simple: **help you make smarter buying decisions.**
+**{{ site.title }}** helps you make smarter buying decisions. We research, compare, and recommend the best products so you don't have to spend hours reading reviews yourself.
 
 ## How We Work
 
-1. **🔬 AI-Powered Research** — Our system analyzes thousands of product reviews, price histories, and expert opinions
-2. **📊 Data-Driven Rankings** — We compare features, prices, and ratings to find the best value
-3. **🔄 Always Updated** — Content is refreshed regularly to reflect the latest products and prices
-4. **💰 Earn While You Shop** — Through our Amazon affiliate links, every purchase supports this site at no extra cost to you
+1. **🔬 Thorough Research** — We analyze product features, prices, and real user feedback
+2. **📊 Side-by-Side Comparisons** — We put similar products head-to-head to find the best value
+3. **🔄 Regular Updates** — We keep our recommendations current with the latest products and prices
 
 ## Why Trust Us?
 
-- ✅ **Unbiased** — We recommend based on data, not sponsorship
+- ✅ **Independent** — We recommend based on research, not sponsorship
 - ✅ **Transparent** — Every affiliate link is clearly marked
 - ✅ **Comprehensive** — We cover budget to premium options
 - ✅ **Honest** — We include both pros and cons
 
-## Our Story
+## Affiliate Disclosure
 
-Born from the vision of combining artificial intelligence with affiliate marketing, {{ site.title }} launched in 2026 with a mission to create the most comprehensive, data-driven product recommendation platform on the web — fully automated and constantly improving.
+{{ site.title }} is a participant in the Amazon Services LLC Associates Program. This means we may earn a commission when you purchase through our links — at **no extra cost to you**. These commissions help us maintain and improve the site.
 
 ## Get In Touch
 
 Have questions, suggestions, or feedback? We'd love to hear from you!
 
-📧 **Email:** alfy.liaozr@gmail.com  
-🐙 **GitHub:** [alfy-liaozr/ai-money-blog](https://github.com/alfy-liaozr/ai-money-blog)  
+📧 **Email:** alfy.liaozr@gmail.com
 
 ---
 

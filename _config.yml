@@ -1,7 +1,7 @@
-# AI Money System - Jekyll Configuration
-title: "AI Money System"
-tagline: "AI-Powered Product Reviews & Buying Guides"
-description: "Discover the best products through AI-generated reviews. Honest, data-driven buying guides for smart shoppers. As an Amazon Associate, we earn from qualifying purchases."
+# Smart Pick Reviews - Jekyll Configuration
+title: "Smart Pick Reviews"
+tagline: "Honest product reviews. Smarter buying decisions."
+description: "In-depth product reviews and buying guides to help you find the best value. We research, compare, and recommend so you can shop with confidence."
 baseurl: "/ai-money-blog"
 url: "https://alfy-liaozr.github.io"
 
@@ -18,16 +18,14 @@ plugins:
 
 # SEO
 author:
-  name: "AI Money System"
+  name: "Smart Pick Reviews"
   twitter: ""
 
 # Social
 social:
-  name: "AI Money System"
+  name: "Smart Pick Reviews"
   links:
     - "https://github.com/alfy-liaozr/ai-money-blog"
-
-# Pagination
 
 # Collections
 collections:
@@ -41,7 +39,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "AI Money System"
+      author: "Smart Pick Reviews"
   - scope:
       path: ""
       type: "pages"
